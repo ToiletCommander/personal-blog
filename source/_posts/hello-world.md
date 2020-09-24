@@ -1,38 +1,18 @@
 ---
-title: Hello World
+title: 新博客搭建好啦!
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+因为没有钱买服务器, 我这次用了静态的 [Hexo](https://hexo.io/) 博客. 
 
-## Quick Start
+## 关于我
 
-### Create a new post
+### 我是谁
 
-``` bash
-$ hexo new "My New Post"
-```
+我是秃头天王，秃头天王就是我。我是[形随意动](https://www.interactiveplus.org/)的创始人, 也是加州伯克利大学的一名学生.
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+### 兴趣爱好
 
-### Run server
+Urban跳舞, 编程, 机器人([First机器人](http://www.firstinspires.org/))
 
-``` bash
-$ hexo server
-```
+## 这个博客会发什么
 
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+生活琐碎和一点点的编程见解吧.

@@ -8,7 +8,7 @@ subtitle: '一个秃头天王的博客'
 description: ''
 keywords: 老秋风, 马桶将军, 量子饼干, 形随意动, Interactive+, InteractivePlus, 博客, Blog, Windy Feng, ToiletCommander
 author: Windy Feng
-language: zh
+language: zh-CN
 timezone: ''
 
 # Sitemap
@@ -17,8 +17,8 @@ path: sitemap.xml
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://toiletcommander.github.io/blog
-root: /blog/
+url: http://toiletcommander.github.io/personal-blog
+root: /personal-blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,9 +102,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repo: 'https://github.com/ToiletCommander/personal-blog/'
+  branch: 'gh-pages'
